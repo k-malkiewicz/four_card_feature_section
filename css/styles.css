@@ -34,7 +34,7 @@ header h1 {
 }
 header h1 span {
   display: block;
-  font-weight: 700;
+  font-weight: 600;
 }
 header p {
   width: 31.25rem;
@@ -56,6 +56,7 @@ header p {
   padding: 2rem 2rem 2rem 2rem;
   background: rgb(255, 255, 255);
   border-radius: 0.625rem;
+  box-shadow: 0 5px 25px rgb(204, 204, 204);
   overflow: hidden;
   position: relative;
   z-index: 1;

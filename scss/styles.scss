@@ -34,7 +34,7 @@ header {
         letter-spacing: .0187rem;
         span {
             display: block;
-            font-weight: 700;
+            font-weight: 600;
         }
     }
     p {
@@ -58,6 +58,7 @@ header {
     padding: 2rem 2rem 2rem 2rem;
     background: variables.$bg-feature-card;
     border-radius: .625rem;
+    box-shadow: 0 5px 25px rgba(204, 204, 204, 1);
     overflow: hidden;
     position: relative;
     z-index: 1;
